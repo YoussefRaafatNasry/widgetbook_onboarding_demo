@@ -1,5 +1,5 @@
-name: widgetbook_onboarding_demo
-description: Demonstrates how to use the widgetbook package.
+name: zapp_entry_bug
+description: Bug Reproduction Code.
 publish_to: 'none'
 version: 0.1.0
 
@@ -10,10 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
   flutter_lints: ^2.0.0
 
 flutter:
